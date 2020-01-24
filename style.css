@@ -3,6 +3,7 @@ h1{
   color: #f4ede9;
   font-size: 22px;
   margin-top: 50px;
+  text-align: center;
 }
 
 p{
@@ -10,6 +11,7 @@ p{
   color: #f4ede9;
   font-size: 17px;
   margin-top: 10px;
+  text-align: center;
 }
 
 body{
@@ -22,5 +24,3 @@ footer{
   font-size: 12px;
   text-align: center;
 }
-
-div#1
