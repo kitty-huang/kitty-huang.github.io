@@ -1,0 +1,42 @@
+h1{
+  font-family: "TitlingGothicFB Extended";
+  color: #f4ede9;
+  font-size: 50px;
+  margin-top: 50px;
+  text-align: center;
+}
+
+h2{
+  font-family: "TitlingGothicFB Extended";
+  color: #f4ede9;
+  font-size: 20px;
+  margin-left: 50px;
+  text-align: left;
+}
+
+h3{
+  font-family: "TitlingGothicFB Normal";
+  color: #f4ede9;
+  font-size: 15px;
+  margin-right: 50px;
+  text-align: right;
+}
+
+p{
+  font-family: "TitlingGothicFB Normal";
+  color: #f4ede9;
+  font-size: 15px;
+  margin-top: 10px;
+  text-align: center;
+}
+
+body{
+  background-image: url("blackbox.jpg")
+}
+
+footer{
+  font-family: "TitlingGothicFB Normal";
+  color: #f4ede9;
+  font-size: 12px;
+  text-align: center;
+}
