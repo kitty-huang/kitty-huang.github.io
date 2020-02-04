@@ -1,16 +1,23 @@
-.box{
-  margin: 50px;
-  background: black;
-  padding: 50px;
-  width: 70%;
-  height: 200px;
-}
-
-
 h1{
   font-family: "TitlingGothicFB Extended";
   color: #f4ede9;
   font-size: 30px;
+  margin-top: 50px;
+  text-align: center;
+}
+
+h2{
+  font-family: "TitlingGothicFB Extended";
+  color: #f4ede9;
+  font-size: 20px;
+  margin-top: 50px;
+  text-align: center;
+}
+
+h3{
+  font-family: "TitlingGothicFB Extended";
+  color: #f4ede9;
+  font-size: 15px;
   margin-top: 50px;
   text-align: center;
 }
