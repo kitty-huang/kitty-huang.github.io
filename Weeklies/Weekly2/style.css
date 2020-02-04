@@ -1,6 +1,6 @@
 h1{
   font-family: "TitlingGothicFB Extended";
-  color: #f4ede9;
+  color: white;
   font-size: 30px;
   margin-top: 50px;
   text-align: center;
@@ -8,18 +8,18 @@ h1{
 
 h2{
   font-family: "TitlingGothicFB Extended";
-  color: #f4ede9;
+  color: white;
   font-size: 20px;
   margin-top: 50px;
-  text-align: center;
+  text-align: left;
 }
 
 h3{
   font-family: "TitlingGothicFB Extended";
-  color: #f4ede9;
-  font-size: 15px;
+  color: white;
+  font-size: 12px;
   margin-top: 50px;
-  text-align: center;
+  text-align: right;
 }
 
 
@@ -37,7 +37,7 @@ body{
 
 footer{
   font-family: "TitlingGothicFB Normal";
-  color: #f4ede9;
+  color: white;
   font-size: 12px;
   text-align: center;
 }
