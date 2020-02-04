@@ -1,11 +1,11 @@
 .box{
-  margin: 50px;
+  margin: 100px;
   background: black;
   padding: 50px;
-  width: 70%;
-  height: 200px;
+  width: auto;
+  height: auto;
+  align-content: center;
 }
-
 
 h1{
   font-family: "TitlingGothicFB Extended";
@@ -15,17 +15,16 @@ h1{
   text-align: center;
 }
 
-
 p{
   font-family: "TitlingGothicFB Normal";
   color: #f4ede9;
   font-size: 15px;
-  margin: 20px;
+  margin-top: 10px;
   text-align: center;
 }
 
 body{
-  background-image: url("blackbox.jpg")
+  background-image: url("OutOfFocus.jpg")
 }
 
 footer{
