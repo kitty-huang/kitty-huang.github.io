@@ -189,19 +189,26 @@ A{
 }
 
 h1{
-  font-family: "TitlingGothicFB Wide";
+  font-family: titling-gothic-fb-wide, sans-serif;
+  font-weight: 700;
+  font-style: normal;
   color: #1e1e1e;
   font-size: 60px;
 }
 
 footer{
-  font-family: "TitlingGothicFB Wide";
+  font-family: titling-gothic-fb-wide, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-style: normal;
   color: #1e1e1e;
   font-size: 22px;
 }
 
 p{
-  font-family: "TitlingGothicFB Wide";
+  font-family: titling-gothic-fb-wide, sans-serif;
+  font-weight: 400;
+  font-style: normal;
   color: #1e1e1e;
   font-size: 12px;
 }
