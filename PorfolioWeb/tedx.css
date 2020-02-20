@@ -1,0 +1,150 @@
+header{
+    margin: auto;
+    position: relative;
+    width: 100%;
+    height: 600px;
+    background-color: #e24b44;
+}
+
+.title{
+  position:relative;
+  width: 35%;
+  height: 200px;
+  float:left;
+  /* background-color: black; */
+  text-align: left;
+  padding: 100px;
+  margin: 1%;
+  margin-top: 10%;
+  line-height: 23px;
+}
+
+.container{
+  position:relative;
+  float:left;
+  margin-top: 50px;
+  width: 100%;
+  height:500px;
+  /* background-color: #e24b44; */
+}
+
+.content{
+  position:relative;
+  width: 35%;
+  height: 250px;
+  float:left;
+  /* background-color: white; */
+  text-align: right;
+  padding: 100px;
+  margin: 1%;
+  line-height: 23px;
+}
+
+.content img{
+  float:left;
+  position: relative;
+  width: 50%;
+}
+
+.EventCoverImage{
+  position:relative;
+  width: 35%;
+  height: 250px;
+  float:left;
+  /* background-color: white; */
+  padding: 100px;
+  margin: 1%;
+  text-align: left;
+}
+
+.EventCoverImage img{
+  height:250px;
+}
+
+.NameTagImage{
+  position:relative;
+  width: 35%;
+  height: 250px;
+  float:left;
+  /* background-color: white; */
+  padding: 100px;
+  margin: 1%;
+  text-align: left;
+}
+
+.NameTagImage img{
+  margin: 1%;
+  height:340px;
+}
+
+.PosterImage{
+  position:relative;
+  width: 35%;
+  height: 250px;
+  float:left;
+  /* background-color: white; */
+  padding: 100px;
+  margin: 1%;
+  text-align: left;
+}
+
+.PosterImage img{
+  margin: 1%;
+  height:400px;
+}
+
+.ProfileImage{
+  position:relative;
+  width: 35%;
+  height: 250px;
+  float:left;
+  /* background-color: white; */
+  padding: 100px;
+  margin: 1%;
+  text-align: left;
+}
+
+.ProfileImage img{
+  float: left;
+  margin:2%;
+  height:250px;
+}
+
+h1{
+  font-family: "TitlingGothicFB Wide";
+  color: #ffffff;
+  font-size: 40px;
+}
+
+h2{
+  font-family: "TitlingGothicFB Wide";
+  color: #ffffff;
+  font-size: 20px;
+}
+
+h3{
+  font-family: "TitlingGothicFB Wide";
+  color: #ffffff;
+  font-weight: lighter;
+  font-size: 20px;
+}
+
+h4{
+  font-family: "TitlingGothicFB Wide";
+  color: #ffffff;
+  font-weight: lighter;
+  font-size: 12px;
+}
+
+h5{
+  font-family: "TitlingGothicFB Wide";
+  color: #1e1e1e;
+  font-size: 20px;
+}
+
+p{
+  font-family: "TitlingGothicFB Wide";
+  color: #1e1e1e;
+  font-weight: lighter;
+  font-size: 12px;
+}
