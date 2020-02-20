@@ -1,4 +1,9 @@
-@import url("https://use.typekit.net/asf2ywe.css");
+/* @import url("https://use.typekit.net/asf2ywe.css"); */
+
+@font-face {
+  font-family: TitlingGothicFB;
+  src: url(https://use.typekit.net/asf2ywe.css);
+}
 
 A{
   text-decoration: none;
