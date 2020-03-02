@@ -1,3 +1,9 @@
+body{
+  margin: 0;
+  width: 100%;
+  height: 100vh;
+}
+
 header{
     margin: auto;
     position: relative;
@@ -13,10 +19,9 @@ header{
   float:left;
   /* background-color: black; */
   text-align: left;
-  padding: 100px;
-  margin: 1%;
+  padding: 5%;
+  margin: 2.5%;
   margin-top: 10%;
-  line-height: 23px;
 }
 
 .container{
@@ -35,9 +40,9 @@ header{
   float:left;
   /* background-color: white; */
   text-align: right;
-  padding: 100px;
-  margin: 1%;
-  line-height: 23px;
+  padding: 5%;
+  margin: 2.5%;
+  line-height: 120%;
 }
 
 .content img{
@@ -52,13 +57,15 @@ header{
   height: 250px;
   float:left;
   /* background-color: white; */
-  padding: 100px;
-  margin: 1%;
+  padding: 5%;
+  margin: 2.5%;
   text-align: left;
 }
 
 .EventCoverImage img{
-  height:250px;
+  float:left;
+  position: relative;
+  width: 100%;
 }
 
 .NameTagImage{
@@ -67,14 +74,16 @@ header{
   height: 250px;
   float:left;
   /* background-color: white; */
-  padding: 100px;
-  margin: 1%;
+  padding: 5%;
+  margin: 2.5%;
   text-align: left;
 }
 
 .NameTagImage img{
   margin: 1%;
-  height:340px;
+  float:left;
+  position: relative;
+  width: 48%;
 }
 
 .PosterImage{
@@ -83,14 +92,13 @@ header{
   height: 250px;
   float:left;
   /* background-color: white; */
-  padding: 100px;
-  margin: 1%;
+  padding: 5%;
+  margin: 2.5%;
   text-align: left;
 }
 
 .PosterImage img{
-  margin: 1%;
-  height:400px;
+  width: 100%;
 }
 
 .ProfileImage{
@@ -99,15 +107,16 @@ header{
   height: 250px;
   float:left;
   /* background-color: white; */
-  padding: 100px;
-  margin: 1%;
+  padding: 5%;
+  margin: 2.5%;
   text-align: left;
 }
 
 .ProfileImage img{
-  float: left;
-  margin:2%;
-  height:250px;
+  margin: 1%;
+  float:left;
+  position: relative;
+  width: 48%;
 }
 
 h1{
@@ -116,6 +125,7 @@ h1{
   font-style: normal;
   color: #ffffff;
   font-size: 40px;
+  line-height: 100%;
 }
 
 h2{
@@ -141,6 +151,7 @@ h4{
   color: #ffffff;
   font-weight: lighter;
   font-size: 12px;
+  line-height: 200%;
 }
 
 h5{
@@ -149,6 +160,7 @@ h5{
   font-style: normal;
   color: #1e1e1e;
   font-size: 20px;
+  line-height: 120%;
 }
 
 p{
@@ -157,4 +169,43 @@ p{
   font-style: normal;
   color: #1e1e1e;
   font-size: 12px;
+}
+
+@media only screen and (max-width: 900px) {
+  .title{
+    width: 80%;
+  }
+
+  header{
+    width: 100vw;
+    height: 850px;
+  }
+
+  .content{
+    width: 90vw;
+    text-align: center;
+    top: 10%;
+    bottom: 10%;
+  }
+
+  .EventCoverImage{
+    width: 90vw;
+    margin-bottom: 10%;
+  }
+
+  .NameTagImage{
+    width: 90vw;
+    margin-bottom: 30%;
+  }
+
+  .PosterImage{
+    width: 90vw;
+    margin-bottom: 30%;
+  }
+
+  .ProfileImage{
+    width: 90vw;
+    margin-bottom: 30%;
+  }
+
 }
