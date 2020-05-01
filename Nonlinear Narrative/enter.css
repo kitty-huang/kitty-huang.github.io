@@ -1,0 +1,17 @@
+#ENTER{
+  width: 10vw;
+  height: 5.33vw;
+  margin:auto;
+  margin-top: 47vh;
+  text-align: center;
+  background-image: url(ENTER_WHITE.png);
+  background-size: cover;
+}
+
+#ENTER:hover{
+  background-image: url(ENTER_HOVER.png);
+}
+
+#ENTER img{
+  width:100%;
+}
