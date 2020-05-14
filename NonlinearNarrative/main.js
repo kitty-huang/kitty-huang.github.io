@@ -107,3 +107,55 @@ scene[5] = {
   option3result: 6,
   videoTime : 7
 }
+
+scene[6] = {
+  vid : "Scene 6.mp4",
+  option1 : "Thank you, you're so sweet!",
+  option2 : "I don't need this",
+  option1result: 6.1,
+  option2result: 7,
+  videoTime : 8
+}
+
+scene[6.1] = {
+  vid : "Scene 6.1.mp4",
+  option1 : "<3",
+  option1result: 7,
+  videoTime : 5
+}
+
+scene[7] = {
+  vid : "Scene 7.mp4",
+  option1 : "Yes, I love you",
+  option2 : "No, I do not love you",
+  option1result: 7.1,
+  option2result: 8,
+  videoTime : 5
+}
+
+scene[7.1] = {
+  vid : "Scene 7.1.mp4",
+  option1 : "Continue",
+  option1result: 9,
+  videoTime : 4
+}
+
+scene[8] = {
+  vid : "Scene 8.mp4",
+  option1 : "It’s too creepy",
+  option2 : "We’re just friends",
+  option3 : "You’re just a piece of equipment",
+  option1result: 9,
+  option2result: 9,
+  option3result: 9,
+  videoTime : 3
+}
+
+scene[9] = {
+  vid : "Scene 9.mp4",
+  option1 : "Sure, I’ll pack now!",
+  option2 : "No, I don’t want to go",
+  option1result: 10,
+  option2result: 11,
+  videoTime : 7
+}
